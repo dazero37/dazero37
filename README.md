@@ -18,7 +18,12 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dazero37&custom_title=dazero37's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        />  </div> 
-    </div>
+<div align="center">
+  
+### 🏅 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dazero37&show_icons=true&theme=radical)
+
+</div>
+
     
